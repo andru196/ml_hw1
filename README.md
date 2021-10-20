@@ -66,7 +66,7 @@ Project Organization
 
 --------
 python3 -m venv <dir>
-source env/bun/activate
+source env/bin/activate
 deactivate
 which python
 pip install scikit-learn jupiter kaggle numpy pandas matplotlib seaborn kaggle
